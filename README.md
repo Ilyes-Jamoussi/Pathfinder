@@ -1,4 +1,4 @@
-# PathFinder
+# AVR Microcontroller Robot – Embedded Systems
 
 <div align="center">
   
@@ -11,7 +11,7 @@
 
 ## Overview
 
-The **PathFinder** Project is designed to navigate a predefined course, detect endpoints and posts, and provide a report of its journey. The robot is equipped with various sensors and actuators, including line markers, motors, LEDs, and a sound player, to perform its tasks autonomously. The project is implemented using AVR microcontrollers and programmed in C++.
+The **AVR Microcontroller Robot – Embedded Systems** Project is designed to navigate a predefined course, detect endpoints and posts, and provide a report of its journey. The robot is equipped with various sensors and actuators, including line markers, motors, LEDs, and a sound player, to perform its tasks autonomously. The project is implemented using AVR microcontrollers and programmed in C++.
 
 <div align="center">
     <img alt="Robot" width="400" src="https://github.com/tierChampion/inf1900-projet/blob/master/res/robots.jpg?raw=true">
